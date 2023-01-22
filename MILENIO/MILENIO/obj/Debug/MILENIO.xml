@@ -1,0 +1,576 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MILENIO
+</name>
+</assembly>
+<members>
+<member name="T:MILENIO.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.add_tag_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.addplus_64px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.bill_64px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.collaborator_male_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.collaborator_male_48px1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.collaborator_male_48px2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.delete_100px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_acerca_de_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_administrador_del_hombre_80">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_administrador_del_hombre_96">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_ajustes_filled_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_añadir_usuario_masculino_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_barras_de_oro_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_configuraciones_de_imac_24">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_contraseña_100">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_Delete_32">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_desplegar_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_editar_archivo_64">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_en_inventario_64">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_grafico_30">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_grafico_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_grafico_80">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_grafico_801">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_mostrar_propiedad_128">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_mostrar_propiedad_30">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_pagado_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_pie_chart_3d_20">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_reserva_filled_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_reserva_filled_501">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_reserva_filled_502">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_solicitud_de_dinero_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_usuario_de_género_neutro_100">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_usuario_de_género_neutro_1001">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_venta_30">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_venta_50">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.icons8_venta_filled_60">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.loading">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.LogoGmail_Mesa_de_trabajo_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.logout_rounded_100px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.low_price_96px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.message_96px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.message_squared_80px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.MiLogo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.read_message_26px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.read_message_52px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.receive_cash_64px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.sale_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.sale_48px1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.search_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.Sin_título_2_Mesa_de_trabajo_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.sort_by_modified_date_48px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.synchronize_64px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MILENIO.My.Resources.Resources.urgent_message_96px">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.abonoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.clientesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.empeñoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.productoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.retiroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.OroDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.movimientosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.mensajesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.arqueoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.ventaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.gastoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.abonoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.clientesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.empeñoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.productoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.retiroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.OroRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.movimientosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.mensajesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.arqueoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.ventaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.gastoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.abonoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.clientesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.empeñoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.productoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.retiroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.OroRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.movimientosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.mensajesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.arqueoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.ventaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSet.gastoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.abonoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.clientesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.empeñoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.productoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.retiroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.OroTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.movimientosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.mensajesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.arqueoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.ventaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.gastoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MILENIO.BDMIDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MILENIO.BDMIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MILENIO.BDMIDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.UpdateAll(MILENIO.BDMIDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:MILENIO.BDMIDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

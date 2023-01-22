@@ -1,0 +1,48 @@
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbprojAssemblyReference.cache
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Resources.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.GenerateResource.cache
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.exe.config
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.exe
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.pdb
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.xml
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.exe
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.xml
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.pdb
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Form1.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Principal.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.AgregarCliente.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.DetallesEmpeño.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.AgregarProducto.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.CargaFormularioPrincipal.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Administrador.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.FrmEspera.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Desempeñar.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.CopyComplete
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.DetallesEmpeñoRemate.resources
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\Bunifu.Core.dll
+D:\SISTEMA COMPRA VENTA\MILENIO\MILENIO\MILENIO\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.exe.config
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.exe
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.pdb
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\MILENIO.xml
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\Bunifu.Core.dll
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.AssemblyReference.cache
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Administrador.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.AgregarCliente.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.AgregarProducto.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.CargaFormularioPrincipal.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Desempeñar.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.DetallesEmpeño.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.DetallesEmpeñoRemate.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Form1.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.FrmEspera.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Resources.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.Principal.resources
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.GenerateResource.cache
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.CoreCompileInputs.cache
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.vbproj.CopyComplete
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.exe
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.xml
+C:\Users\YilmerT\Downloads\MILENIO\MILENIO\MILENIO\obj\Debug\MILENIO.pdb

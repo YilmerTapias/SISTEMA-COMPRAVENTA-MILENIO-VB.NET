@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A2CCDAE6-2E30-497F-BEA7-77854D78E237}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MILENIO.My.MyApplication</StartupObject>
+    <RootNamespace>MILENIO</RootNamespace>
+    <AssemblyName>MILENIO</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MILENIO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MILENIO.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Sin título-2_Mesa de trabajo 1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\ARCHIVOS IMPORTANTES!!\Framework Bunifu VB.NET\Bunifu-UI-Form-1.9.0.1_ShareAppsCrack.com\Bunifu UI Form 1.﻿9.0.1\Bunifu UI WinForms 1.9.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador.Designer.vb">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarCliente.Designer.vb">
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarProducto.Designer.vb">
+      <DependentUpon>AgregarProducto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarProducto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BDMIDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDMIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BDMIDataSet.vb">
+      <DependentUpon>BDMIDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Caja.vb" />
+    <Compile Include="CalcularIntereses.vb" />
+    <Compile Include="CargaFormularioPrincipal.Designer.vb">
+      <DependentUpon>CargaFormularioPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CargaFormularioPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CorreoMilenio.vb" />
+    <Compile Include="Desempeñar.Designer.vb">
+      <DependentUpon>Desempeñar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Desempeñar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesEmpeño.Designer.vb">
+      <DependentUpon>DetallesEmpeño.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesEmpeño.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetallesEmpeñoRemate.Designer.vb">
+      <DependentUpon>DetallesEmpeñoRemate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetallesEmpeñoRemate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEspera.Designer.vb">
+      <DependentUpon>FrmEspera.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEspera.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestorDeAcciones.vb" />
+    <Compile Include="Graficas.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validacion.vb" />
+    <Compile Include="ValidarEstadoProducto.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador.resx">
+      <DependentUpon>Administrador.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarCliente.resx">
+      <DependentUpon>AgregarCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarProducto.resx">
+      <DependentUpon>AgregarProducto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CargaFormularioPrincipal.resx">
+      <DependentUpon>CargaFormularioPrincipal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desempeñar.resx">
+      <DependentUpon>Desempeñar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesEmpeño.resx">
+      <DependentUpon>DetallesEmpeño.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetallesEmpeñoRemate.resx">
+      <DependentUpon>DetallesEmpeñoRemate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEspera.resx">
+      <DependentUpon>FrmEspera.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BDMIDataSet.xsc">
+      <DependentUpon>BDMIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDMIDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDMIDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDMIDataSet.xss">
+      <DependentUpon>BDMIDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-usuario-de-género-neutro-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\add_tag_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\bill_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\delete_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-contraseña-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\logout_rounded_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\receive_cash_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\search_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\sort_by_modified_date_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\synchronize_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\addplus_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8_Delete_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-editar-archivo-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\sale_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-reserva-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-venta-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-venta-filled-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-grafico-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\message_squared_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\read_message_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\read_message_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-ajustes-filled-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\collaborator_male_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\message_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\urgent_message_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\low_price_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-configuraciones-de-imac-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-añadir-usuario-masculino-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-administrador-del-hombre-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-administrador-del-hombre-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-mostrar-propiedad-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-mostrar-propiedad-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-venta-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-grafico-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-grafico-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-pie-chart-3d-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-pagado-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-desplegar-50.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-en-inventario-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\LogoGmail_Mesa de trabajo 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-barras-de-oro-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\icons8-solicitud-de-dinero-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="iconos\Sin título-2_Mesa de trabajo 1.png" />
+    <None Include="iconos\icons8-acerca-de-48.png" />
+    <None Include="iconos\MiLogo.png" />
+    <Content Include="LogoTerminado_Mesa de trabajo 1.ico" />
+    <Content Include="Sin título-2_Mesa de trabajo 1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

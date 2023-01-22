@@ -1,0 +1,15 @@
+<p style="text-align: center;"><strong>COMPRA VENTA MILENIO</strong></p>
+<p>Hola, yilmer.</p>
+<p>Te notificamos que hace poco, usted empe&ntilde;o los siguientes articulos.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">nombre</td>
+<td style="width: 33.3333%;">precio</td>
+<td style="width: 33.3333%;">fecha</td>
+</tr>
+</tbody>
+</table>
+<p>Gracias por confiar en nosotros.</p>
+<p>Dir: san carlos c&oacute;rdoba.</p>
+<p>Calle Principal - Cel. 314 803 5473</p>
